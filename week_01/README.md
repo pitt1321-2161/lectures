@@ -8,8 +8,8 @@
 ### Course Structure
 * All course materials available on GitHub page: https://github.com/pitt1321/
 * Syllabus at http://github.com/pitt1321/syllabus
-* Lectures at http://github.com/pitt/1321/lectures
-* Reading at lectures page http://github.com/pitt/1321/lectures/README.md
+* Lectures at http://github.com/pitt1321/lectures
+* Reading at lectures page http://github.com/pitt1321/lectures/README.md
   - But this README.md is automatically displayed when you just go to `lectures`
 * Organized by week:
   - Lecture and lab time each Monday and Wednesday.
@@ -42,7 +42,7 @@
 
 ## Where to Go for Help
 * I will be around during working time during each class after lecture time.
-* Office hours: Wednesday, 11:00 to 12:00\\
+* Office hours: Wednesday, 11:00 to 12:00
 * Make an appointment to meet with me.
 * Lots of Python and GitHub help available online!
 
@@ -135,7 +135,7 @@ Type "help", "copyright", "credits" or "license" for more information.
   - NBViewer:  A service that you can publish read-only versions of iPython notebooks.  http://nbviewer.ipython.org
   - More later.
 
-## Homework 1 - Due 2015-09-05, at TIME WE AGREED
+## Homework 1 - Due 2015-09-05, at 23:59
 * Create a GitHub account and tell me (we should have just done this in class)
 * Install Python and iPython on your computer.
   - Python version 3.4 or later.
