@@ -77,11 +77,27 @@ Please watch and read these -- it will save valuable class time.
     * https://en.wikipedia.org/wiki/Runge-Kutta_methods
 
 8. Week of 10/19
+  - 10/21
+    * https://en.wikipedia.org/wiki/Lagrangian_point
+
     * ECP 17 "Debugging"  [all]
       - "Encountering a Bug", "Print Statements", "Interactive Debugging", "Debugging in Python (pdb)", "Profile"
 
 9. Week of 10/26
+  - 10/26
+    * https://en.wikipedia.org/wiki/Fourier_transform
+      - Section 1-4
+  - 10/28
+    * https://en.wikipedia.org/wiki/Fourier_transform
+      - Section 5.1, 11.1, 11.4, 14
+    * http://mathworld.wolfram.com/FourierTransform.html
+
 10. Week of 11/02
+  - 11/02
+    * https://en.wikipedia.org/wiki/Logistic_map
+  - 11/04
+    * https://en.wikipedia.org/wiki/Attractor
+
 11. Week of 11/09
 12. Week of 11/16
 13. Week of 11/23
